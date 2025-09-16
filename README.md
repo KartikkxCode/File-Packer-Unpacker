@@ -46,3 +46,5 @@ A **Swing GUI** makes the application user-friendly and easy to operate.
 
 ```bash
 FilePackerUnpacker.java
+javac FilePackerUnpacker.java
+java FilePackerUnpacker
